@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Entornos virtuales
+venv/
+.env/
+.env
+
+# Configuración de IDEs/editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación / distribuciones
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks (si usás)
+.ipynb_checkpoints/
+
+# Otros
+*.bak
+*.tmp
